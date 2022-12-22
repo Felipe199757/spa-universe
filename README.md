@@ -1,7 +1,7 @@
 
 # Spa Universe
 
-this is a project about a Single Page Aplicattion(SPA)
+this is a project about a Single Page Aplication(SPA)
 I learned how to create a page that is not updated when changing the address within the site
 ## Functionalities
 - destructuring
